@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317211108692",
+    "project_id": "kelineyt-shoppingactivit-1575d",
+    "storage_bucket": "kelineyt-shoppingactivit-1575d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317211108692:android:7d551473766e1b9ad2d4c1",
+        "android_client_info": {
+          "package_name": "com.example.kelineyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsrgU7YuVyqDqR62MqzYVXFAfwg-W9RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
